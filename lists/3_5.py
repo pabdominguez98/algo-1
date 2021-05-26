@@ -46,7 +46,7 @@ def concatenar_primeros_elementos(lista):
 
 print(filtrar_primos([11, 7, 3, 19], 15))
 
-lista_tuplas = [(1,5,6), (1,2), (1,), (6,4,5,6), ("asd", 9, 5.6, "l", "s")]
+lista_tuplas = [(1,5,6), (1,2), (1), (6,4,5,6), ("asd", 9, 5.6, "l", "s")]
 
 print(ordenar_por_longitud_de_tuplas(lista_tuplas))
 
